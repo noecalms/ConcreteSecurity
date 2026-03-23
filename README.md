@@ -15,8 +15,5 @@ The project's goal is `to improve client responsiveness, accuracy, and satisfact
 - 📦 Eloquent ORM from Laravel
 #### ✔️ Source Code Available
 
-### Programming Folder + Explanation of Site Creation Steps
-
-To learn more about the development of this application, visit [noecalmes.fr](http://noecalmes.fr/concretesecurity).
 
 ![Concrete Security](https://github.com/NoeCalmes/concretsecurity/assets/68471197/77d1bfcd-d855-446e-92aa-0714e9502ed1)
