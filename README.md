@@ -1,6 +1,6 @@
 ## Concrete Security
 
-The project "Concrete Security" is a web application developed as part of `my study project`. It aims to modernize the processes of a fictional company specializing in surveillance and security.
+The project "Concrete Security" is a web application developed . It aims to modernize the processes of a fictional company specializing in surveillance and security.
 
 ### Objective
 
